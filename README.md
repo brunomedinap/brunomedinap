@@ -9,7 +9,7 @@ locale = "es-ES"
 drink = "coffe 🍵"
 
 [langs]
-fav = "Go"
+fav = "Python"
 most_used = "Javascript"
 
 [os]
