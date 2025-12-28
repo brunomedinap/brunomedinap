@@ -1,22 +1,5 @@
 Hewo! I’m Bruno, a smol developer who loves coding in Python, JavaScript, HTML, CSS, and Go. I enjoy tinkering with tech, breaking things, fixing them, and learning along the way. Feel free to tag along!
 
-```toml
-name = "Bruno"
-
-[self]
-age = 15
-locale = "es-ES"
-drink = "coffe 🍵"
-
-[langs]
-fav = "Python"
-most_used = "Javascript"
-
-[os]
-kernel = "Linux"
-flavor = "Fedora"
-```
-
 ## Skills
 
 ![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
